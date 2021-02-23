@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Myunghyun PARK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D in Business administration"
+  bio              : "**Ph.D in Business administration**"
   location         : "Seoul"
   email            :
   links:
