@@ -98,11 +98,11 @@ author:
   avatar           : "/assets/images/pmh.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Ph.D in Business administration**"
   location         : "Seoul"
-  email            : #"mhpark@sookmyung.ac.kr"
+  email            : "mhpark@sookmyung.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mhpark@sookmyung.ac.kr"
+      # url: "mhpark@sookmyung.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
